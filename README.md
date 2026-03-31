@@ -16,7 +16,16 @@ Data Scientist & Founder of DiversoJob | Leveraging AI for Social Inclusion & Ac
 [![](https://visitcount.itsvg.in/api?id=angiefree92&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/ncp/payment/PYZJ4R6L44DS4) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/ncp/payment/PYZJ4R6L44DS4)
+<div>
+  <style>.pp-PYZJ4R6L44DS4{text-align:center;border:none;border-radius:0.25rem;min-width:11.625rem;padding:0 2rem;height:2.625rem;font-weight:bold;background-color:#FFD140;color:#000000;font-family:"Helvetica Neue",Arial,sans-serif;font-size:1rem;line-height:1.25rem;cursor:pointer;}</style>
+  <form action="https://www.paypal.com/ncp/payment/PYZJ4R6L44DS4" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
+    <input class="pp-PYZJ4R6L44DS4" type="submit" value="Comprar ahora" />
+    <img src=https://www.paypalobjects.com/images/Debit_Credit.svg alt="cards" />
+    <section style="font-size: 0.75rem;"> Con la tecnología de <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"/></section>
+  </form>
+</div>
+  
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
